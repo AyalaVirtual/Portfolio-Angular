@@ -1,0 +1,102 @@
+#tagline1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 45px;
+}
+
+#tagline2 {
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+#slider {
+    padding-bottom: 50px;
+}
+
+.bodytext {
+    margin: auto;
+    padding-bottom: 50px;
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.certs1, .certs2, .trusted1, .trusted2, .services1, .services2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.trusted1 {
+    padding-bottom: 100px;
+}
+
+h1, h3, h4, h5, .sectiontitles {
+    text-align: center;
+}
+
+.trustedimgs {
+    height: 200px;
+    width: 300px;
+}
+
+.certimgs {
+    height: 300px;
+    width: 450px;
+    padding-left: 20px;
+}
+
+.contactbutton {
+    color: white;
+    display: inline-block;
+    margin-left: 500px;
+    border-radius: 12px;
+    padding: 10px 40px;
+    border: none;
+    width: 260px;
+    height: 50px;
+    line-height: 0;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    background-color: #1DA1F2;
+    padding-top: 20px;
+    text-align: center;
+    text-justify: inter-word;
+}
+
+.centerbuttonlink {
+    text-align: center;
+}
+
+.text-center {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.justify {
+    text-align: justify;
+}
+
+#serviceimg1, #serviceimg2, #serviceimg3, #serviceimg4 {
+    height: 300px;
+    width: 300px;
+    padding-left: 100px;
+}
+
+.services1 {
+    padding-bottom: 75px;
+}
+
+.social {
+    display: inline-block;
+    margin-left: 300px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+#linkedinlogo, #githublogo {
+    height: 50px;
+    width: 120px;
+}

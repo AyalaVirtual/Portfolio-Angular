@@ -1,0 +1,32 @@
+.row {
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 100px;
+}
+  
+.col {
+    flex: 50%;
+}
+
+img {
+    height: 600px;
+    width: 600px;
+}
+
+.text {
+    padding-left: 30px;
+    text-align: justify;
+}
+
+button {
+    background-color: #1DA1F2;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    color: white;
+    margin-left: 775px;
+    display: inline-block;
+    border-radius: 12px;
+    width: 260px;
+    height: 50px;;
+}
